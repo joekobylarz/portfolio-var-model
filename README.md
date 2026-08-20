@@ -24,8 +24,11 @@ Python — pandas, numpy, matplotlib, seaborn, scipy, yfinance
 
 ## Project Structure
 ├── data/             # historical price data
+
 ├── notebooks/        # main analysis notebook
+
 ├── .gitignore
+
 ├── README.md
 
 ## Notebook
